@@ -1,8 +1,8 @@
-🚀 ##SHOOTING BALL GAME
+#🚀 SHOOTING BALL GAME
 
 Shooting Ball Game is an exciting Python game made with Pygame. The player stays at the bottom of the screen, shooting bullets to destroy enemies falling from above. Avoid enemy collisions, shoot strategically, and try to achieve the highest score possible. Fast-paced, challenging, and addictive gameplay keeps you on your toes!
 
-🎮 ##Features
+#🎮 Features
 
 1. Fullscreen or windowed immersive gameplay
 
@@ -18,7 +18,7 @@ Shooting Ball Game is an exciting Python game made with Pygame. The player stays
 
 7. Retry option after game over
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Python 3.10+
 
