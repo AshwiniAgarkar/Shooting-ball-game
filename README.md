@@ -20,20 +20,20 @@ Shooting Ball Game is an exciting Python game made with Pygame. The player stays
 
 🛠️ #Tech Stack
 
-Python 3.10+
+  Python 3.10+
 
-Pygame
+  Pygame
 
 🎮 # Controls
 
-LEFT / RIGHT arrow keys → Move player
+  LEFT / RIGHT arrow keys → Move player
 
-SPACE → Shoot bullets
+  SPACE → Shoot bullets
 
-ESC → Exit
+  ESC → Exit
 
-SHIFT → Retry after game over
+  SHIFT → Retry after game over
 
 👨‍💻 # Author
 
-Built by @AshwiniAgarkar
+   Built by @AshwiniAgarkar
